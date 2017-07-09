@@ -77,6 +77,7 @@ ia DIjktra Dijkstra
 ia Dravadian Dravidian
 ia dravadian Dravidian
 ia DRavadian Dravidian
+ia emial email
 ia Enlish English
 ia enlish English
 ia ENlish English
@@ -8191,7 +8192,6 @@ ia ORignally Originally
 ia orignially originally
 ia Orignially Originally
 ia ORignially Originally
-ia os so
 ia Os So
 ia osme some
 ia Osme Some
